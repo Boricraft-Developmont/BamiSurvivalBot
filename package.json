@@ -1,0 +1,23 @@
+{
+  "name": "bamisurvivalbot",
+  "version": "1.0.0",
+  "description": "Bot for bamisurvival",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boricraft-Developmont/BamisurvivalBot.git"
+  },
+  "author": "Boricraft-Development Boricraft#0001",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Boricraft-Developmont/BamisurvivalBot/issues"
+  },
+  "homepage": "https://github.com/Boricraft-Developmont/BamisurvivalBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
